@@ -1,0 +1,15 @@
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\refint\FinalProject.dll
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\sahil.shaikh\source\repos\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
